@@ -1,0 +1,4 @@
+0 = Fire
+1 = Smoke
+image size = 416
+model = YOLOv8n
